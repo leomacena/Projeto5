@@ -18,6 +18,6 @@ const resposta = () => {
             cadastro = false;
         }
     }
-    console.log(cssList);
+    console.log(cssList.sort());
 };
 resposta();
