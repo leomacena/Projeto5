@@ -9,7 +9,13 @@ desenvolvedores no dia a dia com CSS?<h4></p>
 
 <br>
 
-<p><h3>O QUE É PARA SER FEITO?</h3></p>
+<p><h3>PROPOSTA DO PROJETO</h3></p>
 <p><h4>   Vamos usar o Node para montar um código que vai receber uma lista de propriedades de CSS (ex: background-color, font-size, text-align) e vai devolver essa lista ordenada de A-Z. Ordenar o CSS ajuda a encontrar mais rápido apropriedade que precisamos alterar.</p>
 
 <p>   ➔ O código deve rodar em um laço que vai receber propriedades até a pessoa digitar a palavra “SAIR”, quando isso acontecer vai ser impressono terminal a lista das propriedades ordenadas de A-Z uma em cada linha.</h4></p>
+
+<p><h3>Código do projeto</h3></p>
+![image](https://user-images.githubusercontent.com/113394226/216331090-53196ed1-33c1-4bc3-99d9-d02d39765bde.png)
+
+<p><h3>Saída do terminal</h3></p>
+![image](https://user-images.githubusercontent.com/113394226/216331368-4ec2a004-6619-4cfc-b17a-d3fa0794c5ae.png)
