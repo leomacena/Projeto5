@@ -15,7 +15,7 @@ desenvolvedores no dia a dia com CSS?<h4></p>
 <p>   ➔ O código deve rodar em um laço que vai receber propriedades até a pessoa digitar a palavra “SAIR”, quando isso acontecer vai ser impressono terminal a lista das propriedades ordenadas de A-Z uma em cada linha.</h4></p>
 
 <p><h3>Código do projeto</h3></p>
-![codigo](https://user-images.githubusercontent.com/113394226/216333689-480e4ff8-f787-4d61-93b3-c85b1b38303a.png)
+![image](https://user-images.githubusercontent.com/113394226/216334191-598bf141-ed1e-41d0-964d-b6e0b146ef58.png)
 
 <p><h3>Saída do terminal</h3></p>
 ![terminal](https://user-images.githubusercontent.com/113394226/216333737-170a5e59-5e9b-46ce-8b87-b0513c85ae78.png)
